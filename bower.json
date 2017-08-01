@@ -1,0 +1,28 @@
+{
+  "name": "mean-stack",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "AhamedKashif <ahamed.a@findmyfare.lk>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-resource": "^1.6.5",
+    "angular-route": "^1.6.5",
+    "angular": "^1.6.5",
+    "sweetalert2": "^6.6.6",
+    "angular-sweetalert-2": "^1.0.1"
+  },
+  "resolutions": {
+    "angular": "^1.6.5"
+  }
+}
